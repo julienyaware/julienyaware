@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julienyaware
-- 👀 I’m passionate about data engineering and machine learning.
-- 🌱 I am proficient in Python, ETL pipelines, SQL, and modern data platforms including Snowflake and Airflow.
-- 🌱I also have hands-on experience with full-stack development using HTML5, CSS3, JavaScript, React.js, Express.js, PostgreSQL and Next.js, along with strong skills in product management.
+- 👀 I’m passionate about fullstack development, data engineering and machine learning.
+- 🌱I have hands-on experience with full-stack development using HTML5, CSS3, JavaScript, React.js, Express.js, PostgreSQL and Next.js, along with strong skills in product management.
+- 🌱 I am proficient in Python, ETL pipelines, SQL, and modern data platforms.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me via email ; @ julienyaware@gmail.com
 
